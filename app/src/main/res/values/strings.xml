@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+        <string name="title_activity_main">MainActivity</string>
+        <string name="yunis_nkhamis">Yunis\nKhamis</string>
+        <string name="student">Student</string>
+        <string name="contact">Contact</string>
+        <string name="_614_599_6740">614-599-6740</string>
+        <string name="yuniskhamis3_gmail_com">yuniskhamis3@gmail.com</string>
+    <string name="qr_code_with_linkedin_url">QR code with LinkedIn URL</string>
+</resources>
